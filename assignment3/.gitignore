@@ -1,0 +1,11 @@
+*.swp
+*.pyc
+.env/*
+.idea
+*.iml
+.ipynb_checkpoints
+cs231n/datasets/MNIST_data/
+cs231n/datasets/coco_captioning/
+cs231n/datasets/imagenet_*
+cs231n/datasets/squeezenet.*
+*-TensorFlow.ipynb
